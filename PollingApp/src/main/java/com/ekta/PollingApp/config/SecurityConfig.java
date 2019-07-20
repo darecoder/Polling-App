@@ -2,6 +2,7 @@ package com.ekta.PollingApp.config;
 
 import com.ekta.PollingApp.security.CustomUserDetailsService;
 import com.ekta.PollingApp.security.JwtAuthenticationEntryPoint;
+import com.ekta.PollingApp.security.JwtAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

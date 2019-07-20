@@ -3,10 +3,10 @@ package com.ekta.PollingApp.security;
 import com.ekta.PollingApp.model.User;
 import com.ekta.PollingApp.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
-
 import javax.transaction.Transactional;
 
 @Service
