@@ -1,10 +1,7 @@
 package com.ekta.PollingApp.controller;
 
-import com.ekta.PollingApp.model.Poll;
-import com.ekta.PollingApp.payload.PagedResponse;
-import com.ekta.PollingApp.payload.PollRequest;
-import com.ekta.PollingApp.payload.PollResponse;
-import com.ekta.PollingApp.payload.VoteRequest;
+import com.ekta.PollingApp.model.*;
+import com.ekta.PollingApp.payload.*;
 import com.ekta.PollingApp.repository.PollRepository;
 import com.ekta.PollingApp.repository.UserRepository;
 import com.ekta.PollingApp.repository.VoteRepository;
@@ -20,9 +17,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-
 import javax.validation.Valid;
 import java.net.URI;
+import java.io.IOException;
+import javax.servlet.ServletException;
 
 @RestController
 @RequestMapping("/api/polls")
