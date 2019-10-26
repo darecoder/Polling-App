@@ -1,25 +1,24 @@
-## Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT, React and Ant Design
+## Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT
 
-![App Screenshot](screenshot.png)
+![Sign Up](s2.png)
 
-### Tutorials
+![Login](s5.png)
 
-I've written a complete tutorial series for this application on The CalliCoder Blog -
+![View Page](s1.png)
 
-+ [Part 1: Bootstrapping the Project and creating the basic domain models and repositories](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-1/)
+![Create Poll](s4.png)
 
-+ [Part 2: Configuring Spring Security along with JWT authentication and Building Rest APIs for Login and SignUp](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/)
+![Vote response](s6.png)
 
-+ [Part 3: Building Rest APIs for creating Polls, voting for a choice in a Poll, retrieving user profile etc](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-3/)
-
-+ [Part 4: Building the front-end using React and Ant Design](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-4/)
+![Profile](s7.png)
 
 ## Steps to Setup the Spring Boot Back end app (polling-app-server)
 
 1. **Clone the application**
 
 	```bash
-	git clone https://github.com/callicoder/spring-security-react-ant-design-polls-app.git
+	git clone https://github.com/ekta1999/Polling-App.git
+	cd Polling-App
 	cd polling-app-server
 	```
 
