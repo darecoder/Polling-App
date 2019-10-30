@@ -2,15 +2,15 @@
 
 ![Sign Up](Images/s2.PNG)
 
-![Login](images/s5.PNG)
+![Login](Images/s5.PNG)
 
-![View Page](images/s1.PNG)
+![View Page](Images/s1.PNG)
 
-![Create Poll](images/s4.PNG)
+![Create Poll](Images/s4.PNG)
 
-![Vote response](images/s6.PNG)
+![Vote response](Images/s6.PNG)
 
-![Profile](images/s7.PNG)
+![Profile](Images/s7.PNG)
 
 ## Steps to Setup the Spring Boot Back end app (polling-app-server)
 
