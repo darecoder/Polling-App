@@ -1,6 +1,6 @@
 ## Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT
 
-![Sign Up](images/s2.PNG)
+![Sign Up](Images/s2.PNG)
 
 ![Login](images/s5.PNG)
 
