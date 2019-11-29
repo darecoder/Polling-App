@@ -14,7 +14,7 @@
 
 ### Steps to Setup the Spring Boot Back end app (polling-app-server)
 
-**1. Clone the application**
+1. **Clone the application**
 
 	```bash
 	git clone https://github.com/ekta1999/Polling-App.git
