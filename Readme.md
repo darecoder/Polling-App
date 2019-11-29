@@ -22,19 +22,19 @@
 	cd polling-app-server
 	```
 
-**2. Create MySQL database**
+2. **Create MySQL database**
 
 	```bash
 	create database polling_app
 	```
 
-**3. Change MySQL username and password as per your MySQL installation**
+3. **Change MySQL username and password as per your MySQL installation**
 
 	+ open `src/main/resources/application.properties` file.
 
 	+ change `spring.datasource.username` and `spring.datasource.password` properties as per your mysql installation
 
-**4. Run the app**
+4. **Run the app**
 
 	You can run the spring boot app by typing the following command -
 
@@ -50,7 +50,7 @@
 	mvn package
 	java -jar target/polls-0.0.1-SNAPSHOT.jar
 	```
-**5. Default Roles**
+5. **Default Roles**
 	
 	The spring boot app uses role based authorization powered by spring security. To add the default roles in the database, I have added the following sql queries in `src/main/resources/data.sql` file. Spring boot will automatically execute this script on startup -
 
