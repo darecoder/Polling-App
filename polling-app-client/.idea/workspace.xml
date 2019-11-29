@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../polling-app-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RunDashboard">
@@ -46,6 +46,9 @@
       <workItem from="1572454127385" duration="40000" />
       <workItem from="1572455105399" duration="934000" />
       <workItem from="1572460256190" duration="397000" />
+      <workItem from="1574967447644" duration="409000" />
+      <workItem from="1574967877558" duration="31000" />
+      <workItem from="1575007584081" duration="397000" />
     </task>
     <servers />
   </component>
