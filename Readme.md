@@ -1,4 +1,4 @@
-## Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT
+### Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT
 
 ![Sign Up](Images/s2.PNG)
 
